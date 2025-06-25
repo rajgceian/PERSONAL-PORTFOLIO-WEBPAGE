@@ -65,7 +65,6 @@ The website should allow developers to present themselves professionally and hig
 2. Open the `personal_portfolio_webpage.html` file in any modern browser (e.g., Chrome, Firefox, Edge).
 3. No build tools or dependencies are required. Just pure HTML and CSS.
 
-```bash
-git clone https://github.com/yourusername/portfolio-website.git
-cd portfolio-website
-open index.html
+#output
+
+
